@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '6840'
     url: http://www.gutenberg.org/2009/agents/6840
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16641#Dimasalang-Kalendariong-Tagalog--1920-
 gutenberg_issued: '2005-09-04'
 gutenberg_type: Text
 identifiers:
